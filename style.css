@@ -1,0 +1,35 @@
+.ota{
+    background-color: rgb(28, 76, 67);
+    width: 100vw;
+    height: 100vh;
+}
+header {
+    background-color: #311313;
+    text-align: center;
+    width: 500px;
+    margin: auto;
+    font-size: 30px;
+     color: aliceblue;
+}
+.ota2{
+    background-color: rgb(16, 10, 1);
+    width: 700px;
+    height: 500px;
+    margin: auto;
+    font: optional;
+    border: 5px solid rgb(107, 4, 4);
+}
+.ota3{
+    width: 640px;
+    height: 200px;
+    background-color: rgb(53, 122, 88);
+    margin-top: 33px;
+    margin-left: 50px;
+}
+.ota4{
+    width:640px;
+    height: 200px;
+    background-color: rgb(53, 122, 88);
+    margin-top: 150px;
+    ;
+}
